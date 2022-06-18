@@ -1,4 +1,40 @@
 ---
-- title: faq
-  hashtag: faq
-  path: faq
+- title: Аэропорт в Краби
+  hashtag: aeroport
+  path: aeroport
+- title: Дети
+  hashtag: deti
+  path: deti
+- title: Детские садики в Краби
+  hashtag: detsad
+  path: detsad
+- title: Достопримечательности
+  hashtag: dostoprimechatelnocsty
+  path: dostoprimechatelnocsty
+- title: Отели
+  hashtag: hotel
+  path: hotel
+- title: Храмы
+  hashtag: hramy
+  path: hramy
+- title: Острова
+  hashtag: ostrova
+  path: ostrova
+- title: Пляжи
+  hashtag: plyazjy
+  path: plyazjy
+- title: Погода
+  hashtag: pogoda
+  path: pogoda
+- title: Развлечения
+  hashtag: razvlecheniya
+  path: razvlecheniya
+- title: Рестораны
+  hashtag: restorany
+  path: restorany
+- title: Школа
+  hashtag: shkola
+  path: shkola
+- title: Транспорт
+  hashtag: transport
+  path: transport
