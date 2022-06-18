@@ -1,7 +1,7 @@
 ---
 question: Погода в Краби
 ldjson: yes
-hashtag: sdetmi
+hashtag: veteritemperatura
 ---
 
 Карта направления и силы ветров и температуры в регионе Краби
