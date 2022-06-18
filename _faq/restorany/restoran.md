@@ -11,28 +11,28 @@ hashtag: restoranykraby
 На вид ничем непримечательное кафе с деревянными столиками. Привлекло наше внимание очень большим скоплением тайцев. Оказалось, что это лучшее место в Краби, чтобы познакомиться с традиционным тайским завтраком – джоком. За время нашего пребывания в Ао Нанге место стало любимым, а хозяйки почти родственниками. Не просите меню, в нем только европейские завтраки и джок, который стоит уже на 10 бат дороже. Вода со льдом бесплатно.
 
 
-![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_jok_cafe.JPG)
+![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_jok_cafe.jpg)
 
 ## Кафе на дороге в Краби Таун, рядом с Аркадиан резорт.
 [Показать на карте](https://goo.gl/maps/xXirrMC59MezBkLc6)
 
 Небольшое придорожное кафе с разноцветными клетчатыми скатертями и стульями в виде бетонных кубов. Внутри вы увидите тайцев, в том числе местных полицейских. Здесь смело можно брать любое блюдо, хозяйка очень хорошо готовит. Адмирала всегда кормят бесплатно. Вода со льдом бесплатно, нужно наливать самим из кулера.
 
-![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_duck.JPG)
+![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_duck.jpg)
 
 ## Кафе по дороге на Клонг Муанг
 [Показать на карте](https://goo.gl/maps/Wr7HiEF285NMjmm59)
 
 Классическое тайское кафе у дома. Владельцы муж с женой. Жена готовит, муж общается. Очень рады гостям. Все очень острое. Любое блюдо стоит 50 бат. Порции небольшие. Вода со льдом бесплатно. Для Главного выносят хозяйский стул, подушки, кормят бананами, играют и восхищаются.
 
-![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_cafe_50.JPG)
+![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_cafe_50.jpg)
 
 ## Лапша у 7элевен в Клонг Хэнг
 [Показать на карте](https://goo.gl/maps/ze4r3wqWkB8Jc8CG6)
 
 Макашница с лапшой, лучшая в Ао Нанге. Работает с 17-00. Часто все столики, а их 3, заняты тайцами. Вода со льдом, зелень, соевые ростки бесплатно. Основ для лапши три – Том Ям, куриный бульон (clear soup) и соевая.
 
-![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_noodle.JPG)
+![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_noodle.jpg)
 
 
 ## Макашница у 7элевен в Клонг Хэнг
@@ -45,7 +45,7 @@ hashtag: restoranykraby
 
 Макашница с пончиками и тайскими напитками. Все напитки очень сладкие. Единственное, что можно попробовать – сок лонгана за 25 бат, просите сока поменьше, льда побольше, похож на наш компот из сухофруктов.
 
-![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_doughnut_stand.JPG)
+![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_doughnut_stand.jpg)
 
 
 ## Бургерная в Ноппарате Burger Bung
@@ -53,14 +53,14 @@ hashtag: restoranykraby
 
 Тайская бургерная, бургеры невкусные, но интересно понаблюдать за быстро работающими тайцами. Посетителей очень много, почти все местные. Заказ нужно самим писать в блокнотик. Атмосферное место.
 
-![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_burger_bung.JPG)
+![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_burger_bung.jpg)
 
 ## Кафе в Клонг Хаенг Timber De Cafe
 [Показать на карте](https://goo.gl/maps/4pcTDG8bqW8SfuQZ7)
 
 Кафе рядом с рынком, с забавным интерьером, хорошим вай-фаем. Посетителей мало. Хозяин европеизирован, отлично готовит все соусы, блюда неострые. Вода со льдом бесплатно. Кофе один из лучших в АоНанге по соотношению цена-качество.
 
-![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_timber_cafe.JPG)
+![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_timber_cafe.jpg)
 
 
 ## Кафе у поворота на главной дороге Ао Нанг.
@@ -68,7 +68,7 @@ hashtag: restoranykraby
 
 Типичное тайское кафе с пластмассовыми столиками и клеенчатыми скатертями. Повара сами всегда едят. Вода со льдом, зелень, овощи бесплатно.
 
-![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_rice_soup.JPG)
+![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_rice_soup.jpg)
 
 ## U&P Bakery Булочная в Ао Нанг
 [Показать на карте](https://goo.gl/maps/uqmZSTKX8iRpvHza8)
@@ -87,7 +87,7 @@ hashtag: restoranykraby
  Обычное кокосовое мороженое, немного более сладкое, чем хотелось бы, просите тайский вариант с шариком риса внизу.
 
 
-![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_ice_cream.JPG)
+![фото](https://krabifaq.ru/assets/thai_food_krabi_ao_nang_ice_cream.jpg)
 
 ## Бланко
 [Показать на карте](https://goo.gl/maps/pUNLdGNZCQthntLo9)
