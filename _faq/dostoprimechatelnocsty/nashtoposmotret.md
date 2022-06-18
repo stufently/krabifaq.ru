@@ -85,12 +85,6 @@ hashtag: nashtoposmotret
 Для детишек стоит отправиться на водопад Хуай Са Ке (Huai Sa Khe), он как раз не такой большой, и находится буквально в 300 м от административного здания.
 
 
-![Фото](https://krabifaq.ru/assets/bencha.jpg)
-
-![Фото](https://krabifaq.ru/assets/bencha2.jpg)
-
-![Фото](https://krabifaq.ru/assets/bencha3.jpg)
-
 **Вход**: 100 бат – для взрослых, 50 бат – для детей.
 
 **Где находится**: селение Talat Kao.
