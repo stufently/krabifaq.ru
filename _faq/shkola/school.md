@@ -1,5 +1,5 @@
 ---
-question: Русские школы Краби
+question: Школы Краби
 ldjson: yes
 hashtag: school
 ---
